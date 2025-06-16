@@ -1,3 +1,9 @@
+---
+tags: [cheat sheets, quick reference, commands, patterns]
+created: 2025-06-15
+updated: 2025-06-15
+---
+
 # Cheat Sheets - Quick Command References
 
 > **Quick Summary**: Fast reference for common commands and patterns across all technologies in this vault.

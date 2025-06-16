@@ -1,8 +1,7 @@
 ---
 tags: [design-systems, design-tokens, tailwind, storybook, ui, theming]
-created: 2025-01-27
-updated: 2025-01-27
-related: [[Tailwind CSS]], [[React]], [[Component Design Patterns]], [[Best Practices]]
+created: 2025-06-15
+updated: 2025-06-15
 ---
 
 # 🎨 Design Systems

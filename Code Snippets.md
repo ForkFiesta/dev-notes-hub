@@ -1,3 +1,9 @@
+---
+tags: [code snippets, reusable patterns, html, css, javascript, react]
+created: 2025-06-15
+updated: 2025-06-15
+---
+
 # Code Snippets - Reusable Patterns
 
 > **Quick Summary**: Ready-to-use code snippets for common development patterns and tasks.

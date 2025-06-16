@@ -1,4 +1,8 @@
-# CI/CD & Deployment - Automated Workflows
+---
+tags: [ci-cd, deployment, github, netlify, vercel, automation, testing]
+created: 2025-06-15
+updated: 2025-06-15
+---
 
 > **Quick Summary**: CI/CD automates testing, building, and deployment processes. Master GitHub Actions, Netlify/Vercel workflows, environment management, and deployment strategies for reliable software delivery.
 

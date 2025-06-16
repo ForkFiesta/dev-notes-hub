@@ -1,3 +1,9 @@
+---
+tags: [best practices, development, coding, architecture, patterns]
+created: 2025-06-15
+updated: 2025-06-15
+---
+
 # Best Practices - Development Guidelines
 
 > **Quick Summary**: Essential best practices for writing maintainable, scalable, and high-quality code across all technologies.

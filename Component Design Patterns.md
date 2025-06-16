@@ -1,8 +1,8 @@
+---
+tags: [react, patterns, architecture, components, hooks]
+created: 2025-06-15
+updated: 2025-06-15
 
->tags: [react, patterns, architecture, components, hooks]
->created: 2025-06-15
->updated: 2025-06-15
->related: [[React]], [[TypeScript]], [[State Management]], [[Best Practices]]
 ---
 
 # 🧩 Component Design Patterns
