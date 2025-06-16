@@ -12,6 +12,12 @@ Welcome to your comprehensive, actionable reference for modern front-end and ful
 - [[Next.js]] - Full-stack React framework, SSR/SSG, API routes
 - [[Tailwind CSS]] - Utility classes, responsive design, customization
 
+### Advanced Frontend
+- [[TypeScript]] - Types, interfaces, generics, React integration
+- [[State Management]] - Redux RTK, Zustand, Jotai patterns
+- [[Animations & UX]] - Framer Motion, CSS performance, UX principles
+- [[Forms & Validation]] - React Hook Form, Zod/Yup validation
+
 ### Development Tools & Workflow
 - [[Git]] - Version control, branching, workflows
 - [[Node.js]] - Runtime, scripting, server basics
@@ -47,15 +53,20 @@ Welcome to your comprehensive, actionable reference for modern front-end and ful
 ### React Developer Path
 1. Strong [[JavaScript]] foundation
 2. [[React]] fundamentals
-3. [[Tailwind CSS]] for styling
-4. [[Testing]] with React Testing Library
-5. [[Performance Optimization]] techniques
+3. [[TypeScript]] for type safety
+4. [[Tailwind CSS]] for styling
+5. [[State Management]] patterns
+6. [[Forms & Validation]] best practices
+7. [[Animations & UX]] for engaging interfaces
+8. [[Testing]] with React Testing Library
+9. [[Performance Optimization]] techniques
 
 ### Next.js Developer Path
 1. Complete React Developer Path
 2. [[Next.js]] framework specifics
-3. [[CI-CD & Deployment]] with Vercel
-4. Advanced [[Performance Optimization]]
+3. Advanced [[TypeScript]] patterns
+4. [[CI-CD & Deployment]] with Vercel
+5. Advanced [[Performance Optimization]]
 
 ### Full-Stack Path
 1. All React/Next.js knowledge
@@ -72,10 +83,12 @@ Welcome to your comprehensive, actionable reference for modern front-end and ful
 ## 🔗 Topic Interconnections
 
 - **[[HTML]]** connects to **[[Accessibility]]** and **[[CSS]]**
-- **[[CSS]]** connects to **[[Tailwind CSS]]** and **[[Performance Optimization]]**
-- **[[JavaScript]]** is fundamental to **[[React]]**, **[[Next.js]]**, and **[[Testing]]**
-- **[[React]]** extends to **[[Next.js]]** and **[[Testing]]**
-- **[[Performance Optimization]]** applies to all frameworks
+- **[[CSS]]** connects to **[[Tailwind CSS]]**, **[[Animations & UX]]**, and **[[Performance Optimization]]**
+- **[[JavaScript]]** is fundamental to **[[React]]**, **[[TypeScript]]**, **[[Next.js]]**, and **[[Testing]]**
+- **[[React]]** extends to **[[TypeScript]]**, **[[State Management]]**, **[[Forms & Validation]]**, **[[Animations & UX]]**, **[[Next.js]]**, and **[[Testing]]**
+- **[[TypeScript]]** enhances **[[React]]**, **[[State Management]]**, and **[[Forms & Validation]]**
+- **[[State Management]]** integrates with **[[React]]** and **[[TypeScript]]**
+- **[[Performance Optimization]]** applies to all frameworks and advanced patterns
 - **[[CI-CD & Deployment]]** integrates with all development workflows
 
 ---
